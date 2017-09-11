@@ -1,2 +1,2 @@
-# Using-Github
+# Using Github
 Introduction to Github for Newbie
